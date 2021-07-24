@@ -34,33 +34,33 @@
     },
     {
       "id": 2,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "Teclado Mecânico RGB Gamer RAYON",
+      "price": 299.9,
+      "image": "https://i.ibb.co/pxbR49P/teclado.jpg"
     },
     {
       "id": 3,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "title": "Mouse Gamer Logitech Blackdit",
+      "price": 149.9,
+      "image": "https://i.ibb.co/Lgyxqz9/mouse.jpg"
     },
     {
       "id": 5,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "Mouse Gamer Tesla Edition",
+      "price": 129.9,
+      "image": "https://i.ibb.co/SBSFh2S/mouse2.jpg"
     },
     {
       "id": 6,
-      "title": "Tênis Adidas Duramo Lite 2.0",
+      "title": "Kit Essencial Gamer, Mouse e Teclado Brieselet",
       "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "image": "https://i.ibb.co/PGxWB81/kit-essencial.jpg"
     },
     {
       "id": 4,
-      "title": "Tênis de Caminhada Leve Confortável",
-      "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "title": "Kit Full Gamer, Mouse, Teclado, Fonte e Mousepad",
+      "price": 349.9,
+      "image": "https://i.ibb.co/LdjFHrh/kit-full.jpg"
     }
   ]
 }
