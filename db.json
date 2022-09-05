@@ -1,5 +1,4 @@
-{
-  // app orange notes
+{  
   "items": [
     {
       "id": 1,
@@ -100,8 +99,7 @@
       "type": "videoaula",
       "createdAt": "2022-09-01T21:53:43.792Z"
     }
-  ],
-  // app games world store 
+  ],  
   "stock": [
     {
       "id": 1,
