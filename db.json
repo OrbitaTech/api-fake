@@ -1,4 +1,5 @@
 {
+  // app orange notes
   "items": [
     {
       "id": 1,
@@ -99,5 +100,70 @@
       "type": "videoaula",
       "createdAt": "2022-09-01T21:53:43.792Z"
     }
-  ]
+  ],
+  // app games world store 
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 5
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Fone Headset Gamer",
+      "price": 179.9,
+      "image": "https://i.ibb.co/0jJwhDP/fone.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Teclado Mecânico RGB Gamer RAYON",
+      "price": 189.9,
+      "image": "https://i.ibb.co/pxbR49P/teclado.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mouse Gamer Logitech Blackdit",
+      "price": 169.9,
+      "image": "https://i.ibb.co/Lgyxqz9/mouse.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mouse Gamer Tesla Edition",
+      "price": 129.9,
+      "image": "https://i.ibb.co/SBSFh2S/mouse2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Kit Essencial Gamer, Mouse e Teclado Brieselet",
+      "price": 219.9,
+      "image": "https://i.ibb.co/PGxWB81/kit-essencial.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Kit Full Gamer, Mouse, Teclado, Fonte e Mousepad",
+      "price": 349.9,
+      "image": "https://i.ibb.co/LdjFHrh/kit-full.jpg"
+    }
+  ]  
 }
