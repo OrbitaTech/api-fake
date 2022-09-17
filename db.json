@@ -103,179 +103,262 @@
   "stock": [
     {
       "id": 1,
-      "amount": 3
+      "amount": 25
     },
     {
       "id": 2,
-      "amount": 5
+      "amount": 25
     },
     {
       "id": 3,
-      "amount": 2
+      "amount": 25
     },
     {
       "id": 4,
-      "amount": 5
+      "amount": 15
     },
     {
       "id": 5,
-      "amount": 5
+      "amount": 30
     },
     {
       "id": 6,
+      "amount": 30
+    },
+    {
+      "id": 7,
+      "amount": 30
+    },
+    {
+      "id": 8,
       "amount": 10
+    },
+    {
+      "id": 9,
+      "amount": 20
+    },
+    {
+      "id": 10,
+      "amount": 15
+    },
+    {
+      "id": 11,
+      "amount": 4
+    },
+    {
+      "amount": 2,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "amount": 4
+    },
+    {
+      "id": 14,
+      "amount": 5
     }
   ],
   "products": [
     {
       "id": 1,
-      "title": "Fone Headset Gamer",
-      "price": 179.9,
-      "image": "https://i.ibb.co/0jJwhDP/fone.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Teclado Mecânico RGB Gamer RAYON",
-      "price": 189.9,
-      "image": "https://i.ibb.co/pxbR49P/teclado.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Mouse Gamer Logitech Blackdit",
-      "price": 169.9,
-      "image": "https://i.ibb.co/Lgyxqz9/mouse.jpg"
-    },
-    {
-      "id": 5,
-      "title": "Mouse Gamer Tesla Edition",
-      "price": 129.9,
-      "image": "https://i.ibb.co/SBSFh2S/mouse2.jpg"
-    },
-    {
-      "id": 6,
-      "title": "Kit Essencial Gamer, Mouse e Teclado Brieselet",
-      "price": 219.9,
-      "image": "https://i.ibb.co/PGxWB81/kit-essencial.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Kit Full Gamer, Mouse, Teclado, Fonte e Mousepad",
-      "price": 349.9,
-      "image": "https://i.ibb.co/LdjFHrh/kit-full.jpg"
-    }
-  ],
-  "coffees": [
-    {
-      "id": "coffee01",
       "image": "https://i.ibb.co/tbJj98t/coffee01.png",
-      "tags": ["tradicional"],
+      "tags": [
+        "tradicional"
+      ],
       "title": "Expresso Tradicional",
       "subtitle": "O tradicional café feito com água quente e grãos moídos",
       "price": 4.9
     },
     {
-      "id": "coffee02",
+      "id": 2,
       "image": "https://i.ibb.co/vVc5tsp/coffee02.png",
-      "tags": ["tradicional"],
+      "tags": [
+        "tradicional"
+      ],
       "title": "Expresso Americano",
       "subtitle": "Expresso diluído, menos intenso que o tradicional",
       "price": 4.9
     },
     {
-      "id": "coffee03",
+      "id": 3,
       "image": "https://i.ibb.co/mRNxmJ5/coffee03.png",
-      "tags": ["tradicional"],
+      "tags": [
+        "tradicional"
+      ],
       "title": "Expresso Cremoso",
       "subtitle": "Café expresso tradicional com espuma cremosa",
       "price": 4.9
     },
     {
-      "id": "coffee04",
+      "id": 4,
       "image": "https://i.ibb.co/yhv28L0/coffee04.png",
-      "tags": ["tradicional", "gelado"],
+      "tags": [
+        "tradicional",
+        "gelado"
+      ],
       "title": "Expresso Gelado",
       "subtitle": "Bebida preparada com café expresso e cubos de gelo",
       "price": 4.9
     },
     {
-      "id": "coffee05",
+      "id": 5,
       "image": "https://i.ibb.co/RHSJqtN/coffee05.png",
-      "tags": ["tradicional", "com leite"],
+      "tags": [
+        "tradicional",
+        "com leite"
+      ],
       "title": "Café com Leite",
       "subtitle": "Meio a meio de expresso tradicional com leite vaporizado",
       "price": 5.9
     },
     {
-      "id": "coffee06",
+      "id": 6,
       "image": "https://i.ibb.co/KDNWHCv/coffee06.png",
-      "tags": ["tradicional", "com leite"],
+      "tags": [
+        "tradicional",
+        "com leite"
+      ],
       "title": "Latte",
       "subtitle": "Uma dose de café expresso com o dobro de leite e espuma cremosa",
       "price": 5.9
     },
     {
-      "id": "coffee07",
+      "id": 7,
       "image": "https://i.ibb.co/HHcVyMZ/coffee07.png",
-      "tags": ["tradicional", "com leite"],
+      "tags": [
+        "tradicional",
+        "com leite"
+      ],
       "title": "Capuccino",
       "subtitle": "Bebida com canela feita de doses iguais de café, leite e espuma",
       "price": 5.9
     },
     {
-      "id": "coffee08",
+      "id": 8,
       "image": "https://i.ibb.co/P5vyLh4/coffee08.png",
-      "tags": ["tradicional", "com leite"],
+      "tags": [
+        "tradicional",
+        "com leite"
+      ],
       "title": "Macchiato",
       "subtitle": "Café expresso misturado com um pouco de leite quente e espuma",
       "price": 5.9
     },
     {
-      "id": "coffee09",
+      "id": 9,
       "image": "https://i.ibb.co/DG525vJ/coffee09.png",
-      "tags": ["tradicional", "com leite"],
+      "tags": [
+        "tradicional",
+        "com leite"
+      ],
       "title": "Mocaccino",
       "subtitle": "Café expresso com calda de chocolate, pouco leite e espuma",
       "price": 6.9
     },
     {
-      "id": "coffee10",
+      "id": 10,
       "image": "https://i.ibb.co/B30jg8V/coffee10.png",
-      "tags": ["especial", "com leite"],
+      "tags": [
+        "especial",
+        "com leite"
+      ],
       "title": "Chocolate Quente",
       "subtitle": "Bebida feita com chocolate dissolvido no leite quente e café",
       "price": 7.9
     },
     {
-      "id": "coffee11",
+      "id": 11,
       "image": "https://i.ibb.co/r2x1M71/coffee11.png",
-      "tags": ["especial", "alcoólico", "gelado"],
+      "tags": [
+        "especial",
+        "alcoólico",
+        "gelado"
+      ],
       "title": "Cubano",
       "subtitle": "Drink gelado de café expresso com rum, creme de leite e hortelã",
       "price": 9.9
     },
     {
-      "id": "coffee12",
+      "id": 12,
       "image": "https://i.ibb.co/WkBgM4t/coffee12.png",
-      "tags": ["especial"],
+      "tags": [
+        "especial"
+      ],
       "title": "Havaiano",
       "subtitle": "Bebida adocicada preparada com café e leite de coco",
       "price": 9.9
     },
     {
-      "id": "coffee13",
+      "id": 13,
       "image": "https://i.ibb.co/n82TMny/coffee13.png",
-      "tags": ["especial"],
+      "tags": [
+        "especial"
+      ],
       "title": "Árabe",
       "subtitle": "Bebida preparada com grãos de café árabe e especiarias",
       "price": 9.9
     },
     {
-      "id": "coffee14",
+      "id": 14,
       "image": "https://i.ibb.co/5j2fxDh/coffee14.png",
-      "tags": ["especial", "alcoólico"],
+      "tags": [
+        "especial",
+        "alcoólico"
+      ],
       "title": "Irlandês",
       "subtitle": "Bebida a base de café, uísque irlandês, açúcar e chantilly",
       "price": 9.9
+    }
+  ],
+  "orders": [
+    {
+      "cep": "14409-102",
+      "street": "Rua Doutor Francisco Maníglia",
+      "number": "2265",
+      "complement": "",
+      "district": "Jardim Doutor Antônio Petráglia",
+      "city": "Franca",
+      "state": "SP",
+      "paymentMethod": "debit",
+      "cartItems": [
+        {
+          "id": 7,
+          "image": "https://i.ibb.co/HHcVyMZ/coffee07.png",
+          "tags": [
+            "tradicional",
+            "com leite"
+          ],
+          "title": "Capuccino",
+          "subtitle": "Bebida com canela feita de doses iguais de café, leite e espuma",
+          "price": 5.9,
+          "amount": 7
+        },
+        {
+          "id": 8,
+          "image": "https://i.ibb.co/P5vyLh4/coffee08.png",
+          "tags": [
+            "tradicional",
+            "com leite"
+          ],
+          "title": "Macchiato",
+          "subtitle": "Café expresso misturado com um pouco de leite quente e espuma",
+          "price": 5.9,
+          "amount": 2
+        },
+        {
+          "id": 12,
+          "image": "https://i.ibb.co/WkBgM4t/coffee12.png",
+          "tags": [
+            "especial"
+          ],
+          "title": "Havaiano",
+          "subtitle": "Bebida adocicada preparada com café e leite de coco",
+          "price": 9.9,
+          "amount": 2
+        }
+      ],
+      "createdAt": "2022-09-16T12:48:41.606Z",
+      "id": 1
     }
   ]
 }
