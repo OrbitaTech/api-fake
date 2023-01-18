@@ -360,5 +360,504 @@
       "createdAt": "2022-09-16T12:48:41.606Z",
       "id": 1
     }
+  ],
+   "diarios": [
+    {
+      "id_diario": "1",
+      "ano": "2021",
+      "data_cadastro": "2021-11-08 09:48:40",
+      "data_publicacao": "2021-11-08 12:00:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "DECRETO Nº 0657/2021-GPMB, DE 25 DE OUTUBRO DE 2021",
+          "codigo_identificador": "E43QSL8002",
+          "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria nº0889/2021 - SEMAT",
+          "codigo_identificador": "4IY7OKC003",
+          "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria nº0890/2021 - SEMAT",
+          "codigo_identificador": "9XAY3GH004",
+          "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria nº0891/2021 - SEMAT",
+          "codigo_identificador": "2SQOCC9005",
+          "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "5",
+      "ano": "2021",
+      "data_cadastro": "2021-11-15 21:10:49",
+      "data_publicacao": "2021-11-16 08:30:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "1° TERMO ADITIVO AO CONTRATO N° 20210042",
+          "codigo_identificador": "R4HX3JH097",
+          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
+        },
+        {
+          "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210193",
+          "codigo_identificador": "2JHATLJ089",
+          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
+        },
+        {
+          "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210208",
+          "codigo_identificador": "WB9ZXSJ088",
+          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
+        },
+        {
+          "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210504",
+          "codigo_identificador": "GH9R9SF091",
+          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "18",
+      "ano": "2021",
+      "data_cadastro": "2021-12-02 09:52:08",
+      "data_publicacao": "2021-12-02 10:00:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "LEI MUNICIPAL N° 2264, DE 25 DE NOVEMBRO DE 2021.",
+          "codigo_identificador": "STA219C225",
+          "endereco": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria n° 01005/2021 - SEMAT",
+          "codigo_identificador": "U3AUEO8235",
+          "endereco": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria n° 01006/2021 - SEMAT",
+          "codigo_identificador": "H52KPZY233",
+          "endereco": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "41",
+      "ano": "2022",
+      "data_cadastro": "2022-01-04 08:49:52",
+      "data_publicacao": "2022-01-04 09:00:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "AVISO DE LICITAÇÃO - PREGÃO ELETRÔNICO N° 9-002/2022",
+          "codigo_identificador": "KNF9TWN014",
+          "endereco": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing"
+        },
+        {
+          "titulo": "AVISO DE LICITAÇÃO - PREGÃO ELETRÔNICO N° 9-003/2022",
+          "codigo_identificador": "W9E6XIE015",
+          "endereco": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing"
+        },
+        {
+          "titulo": "AVISO DE LICITAÇÃO - PREGÃO ELETRÔNICO N° 9-004/2022",
+          "codigo_identificador": "GWFX1PE016",
+          "endereco": "https://drive.google.com/file/d/1QEQzY_rQbXjIKCOgfHewmaok68Gn3c72/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "78",
+      "ano": "2022",
+      "data_cadastro": "2022-02-17 07:40:03",
+      "data_publicacao": "2022-02-17 07:39:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1dm9q1I-Whb_A1-YSLJjahr9yVMdRWYxZ/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "DECRETO Nº 0042/2022-GPMB",
+          "codigo_identificador": "R7M79AS559",
+          "endereco": "https://drive.google.com/file/d/1dm9q1I-Whb_A1-YSLJjahr9yVMdRWYxZ/view?usp=sharing"
+        },
+        {
+          "titulo": "DECRETO Nº 0044/2022-GPMB",
+          "codigo_identificador": "XWA8L1M563",
+          "endereco": "https://drive.google.com/file/d/1dm9q1I-Whb_A1-YSLJjahr9yVMdRWYxZ/view?usp=sharing"
+        },
+        {
+          "titulo": "ERRATA DO CONTRATO 20210564",
+          "codigo_identificador": "H6WH1RG561",
+          "endereco": "https://drive.google.com/file/d/1dm9q1I-Whb_A1-YSLJjahr9yVMdRWYxZ/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "89",
+      "ano": "2022",
+      "data_cadastro": "2022-03-07 08:24:28",
+      "data_publicacao": "2022-03-07 08:30:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "Portaria n° 0104/2022 - SEMAT",
+          "codigo_identificador": "BA7QCHK738",
+          "endereco": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria n° 0105/2022 - SEMAT",
+          "codigo_identificador": "L8XYT3N743",
+          "endereco": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria n° 0117/2022 - SEMAT",
+          "codigo_identificador": "SXHUXD2746",
+          "endereco": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "153",
+      "ano": "2022",
+      "data_cadastro": "2022-06-03 08:35:44",
+      "data_publicacao": "2022-06-03 08:40:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "Portaria n° 0104/2022 - SEMAT",
+          "codigo_identificador": "BA7QCHK738",
+          "endereco": "https://drive.google.com/file/d/1p9iYqe-pctMH1ti0-Lr8lFkLTDksP2bq/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 1° TERMO DE ADITIVO AO CONTRATO Nº 20210487",
+          "codigo_identificador": "06VRO7L193",
+          "endereco": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 1° TERMO DE ADITIVO AO CONTRATO Nº 20210508",
+          "codigo_identificador": "PD8JRJR194",
+          "endereco": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "216",
+      "ano": "2022",
+      "data_cadastro": "2022-08-30 09:06:33",
+      "data_publicacao": "2022-08-30 09:10:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1Tgur2dvYrHtTFoYAWS1fYlMLJXVAdVRr/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "AVISO DE HOMOLOGAÇÃO - PREGÃO PRESENCIAL Nº 9-071/2022",
+          "codigo_identificador": "FOQ1KH6293",
+          "endereco": "https://drive.google.com/file/d/1Tgur2dvYrHtTFoYAWS1fYlMLJXVAdVRr/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 1° TERMO DE ADITIVO AO CONTRATO Nº 20210487",
+          "codigo_identificador": "71AETIB293",
+          "endereco": "https://drive.google.com/file/d/1Tgur2dvYrHtTFoYAWS1fYlMLJXVAdVRr/view?usp=sharing"
+        },
+        {
+          "titulo": "AVISO DE LICITAÇÃO - PREGÃO ELETRÔNICO N° 9081/2022",
+          "codigo_identificador": "PD8JRJR194",
+          "endereco": "https://drive.google.com/file/d/1pG_mXc62WaTPwDLjCk1MFfloc4FZKq4y/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "241",
+      "ano": "2022",
+      "data_cadastro": "2022-10-05 09:11:14",
+      "data_publicacao": "2022-10-05 09:17:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "DECRETO Nº 0698/2022-GPMB, DE 03 DE OUTUBRO DE 2022.",
+          "codigo_identificador": "EC6T1UO340",
+          "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 1° TERMO DE ADITIVO AO CONTRATO Nº 20220659",
+          "codigo_identificador": "MVFDJ9K340",
+          "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DO CONTRATO Nº 1245/2022",
+          "codigo_identificador": "1LC7URG339",
+          "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "283",
+      "ano": "2022",
+      "data_cadastro": "2022-12-06 08:35:05",
+      "data_publicacao": "2022-12-06 08:44:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1rZnoSpobhJMFE0wkvHAcU1PmTLhDlCv9/view?usp=share_link",
+      "publicacoes": [
+        {
+          "titulo": "DECRETO Nº 0698/2022-GPMB, DE 03 DE OUTUBRO DE 2022.",
+          "codigo_identificador": "EC6T1UO340",
+          "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE CONTRATO Nº 1391/2022",
+          "codigo_identificador": "MVFDJ9K340",
+          "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DO CONTRATO Nº 1245/2022",
+          "codigo_identificador": "ONU7W32416",
+          "endereco": "https://drive.google.com/file/d/1rZnoSpobhJMFE0wkvHAcU1PmTLhDlCv9/view?usp=share_link"
+        }
+      ]
+    },
+    {
+      "id_diario": "302",
+      "ano": "2022",
+      "data_cadastro": "2023-01-03 09:05:34",
+      "data_publicacao": "2023-01-03 09:09:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1V0pq4nznelmWi0WHhA-YHsA6tOOZHMB3/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "Decreto n° 0782/2022-GPMB",
+          "codigo_identificador": "GY1H5XS021",
+          "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
+        },
+        {
+          "titulo": "Decreto n° 0786/2022-GPMB",
+          "codigo_identificador": "REDCRF5022",
+          "endereco": "https://drive.google.com/file/d/1aepaXwigAixY1IbN9SIIcTNlbyAkzBAH/view?usp=sharing"
+        },
+        {
+          "titulo": "Decreto n° 0787/2022-GPMB",
+          "codigo_identificador": "K9594YQ023",
+          "endereco": "https://drive.google.com/file/d/1rZnoSpobhJMFE0wkvHAcU1PmTLhDlCv9/view?usp=share_link"
+        }
+      ]
+    },
+    {
+      "id_diario": "303",
+      "ano": "2023",
+      "data_cadastro": "2023-01-04 09:40:53",
+      "data_publicacao": "2023-01-04 09:45:00",
+      "tipo_diario": "1",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "Decreto n° 0791/2022-GPMB",
+          "codigo_identificador": "Y6U5E8S030",
+          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
+        },
+        {
+          "titulo": "Decreto n° 0792/2022-GPMB",
+          "codigo_identificador": "LZAIYDM031\"",
+          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
+        },
+        {
+          "titulo": "Decreto n° 0793/2022-GPMB",
+          "codigo_identificador": "5NR5X7C032",
+          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "304",
+      "ano": "2023",
+      "data_cadastro": "2023-01-05 09:14:24",
+      "data_publicacao": "2023-01-05 09:23:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1JZuzH4Gcj7JTnJoh7a7ofkXdvq6kNtUK/view?usp=sharin",
+      "publicacoes": [
+        {
+          "titulo": "Portaria nº1455/2022 - SEMAT",
+          "codigo_identificador": "UF6H5PB051",
+          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria nº.1456/2022 - SEMAT",
+          "codigo_identificador": "ETS8YWP052",
+          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria nº.1457/2022 - SEMAT",
+          "codigo_identificador": "UWO41GY053",
+          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "305",
+      "ano": "2023",
+      "data_cadastro": "2023-01-06 09:41:18",
+      "data_publicacao": "2023-01-06 09:44:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/16ybxCCfCErtiuGICqlfZeNqOHRofDYdW/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "Portaria nº1481/2022 - SEMAT",
+          "codigo_identificador": "L5MJS67077",
+          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria nº1482/2022 - SEMAT",
+          "codigo_identificador": "XS7JAJN078",
+          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
+        },
+        {
+          "titulo": "Portaria nº1483/2022 - SEMAT",
+          "codigo_identificador": "N2YRO5O079",
+          "endereco": "https://drive.google.com/file/d/1Q690LbvLxQQkpA5crMyReL8qpTdKXU2J/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "306",
+      "ano": "2023",
+      "data_cadastro": "2023-01-09 08:50:51",
+      "data_publicacao": "2023-01-09 08:54:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1keJBIE8KEhl6uDzzKbp8EvYPK69m8r1b/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "EXTRATO DE 1º TERMO DE ADITIVO AO CONTRATO Nº 1274/2022",
+          "codigo_identificador": "NXKPQ3X101",
+          "endereco": "https://drive.google.com/file/d/1keJBIE8KEhl6uDzzKbp8EvYPK69m8r1b/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 1º TERMO DE ADITIVO AO CONTRATO Nº 20171150",
+          "codigo_identificador": "BISA3EH103",
+          "endereco": "https://drive.google.com/file/d/1keJBIE8KEhl6uDzzKbp8EvYPK69m8r1b/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 1º TERMO DE ADITIVO AO CONTRATO Nº 20211200",
+          "codigo_identificador": "M717RUV109",
+          "endereco": "https://drive.google.com/file/d/1keJBIE8KEhl6uDzzKbp8EvYPK69m8r1b/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "307",
+      "ano": "2023",
+      "data_cadastro": "2023-01-09 16:37:30",
+      "data_publicacao": "2023-01-10 06:00:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "AVISO DE LICITAÇÃO - PREGÃO ELETRÔNICO N° 9002/2023",
+          "codigo_identificador": "L92OIEB151",
+          "endereco": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 3° TERMO DE ADITIVO AO CONTRATO Nº 20200439",
+          "codigo_identificador": "HOW69OD142",
+          "endereco": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE 3° TERMO DE ADITIVO AO CONTRATO Nº 20200441",
+          "codigo_identificador": "UWT6MTZ143",
+          "endereco": "https://drive.google.com/file/d/1ohsy3bBWybOhqputfMGjjsQ8CW2P40vU/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "308",
+      "ano": "2023",
+      "data_cadastro": "2023-01-10 16:37:30",
+      "data_publicacao": "2023-01-11 06:00:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "Decreto n° 0002/2023-GPM",
+          "codigo_identificador": "YO4UHBA1788",
+          "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
+        },
+        {
+          "titulo": "Decreto n° 0003/2023-GPMB",
+          "codigo_identificador": "AY74RPX172",
+          "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
+        },
+        {
+          "titulo": "EXTRATO DE CONTRATO Nº 0032/2023",
+          "codigo_identificador": "1SF2JK8169",
+          "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id_diario": "309",
+      "ano": "2023",
+      "data_cadastro": "2023-01-11 16:36:58",
+      "data_publicacao": "2023-01-12 06:00:00",
+      "tipo_diario": "0",
+      "edicao": "1",
+      "situacao_des": "Publicado",
+      "endereco": "https://drive.google.com/file/d/1cEjcs_RPdJqaVrF9PZdulcADz9Tg8gMM/view?usp=sharing",
+      "publicacoes": [
+        {
+          "titulo": "EXTRATO DE CONTRATO Nº 0034/2023",
+          "codigo_identificador": "MNQADAM186",
+          "endereco": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
+        }
+      ]
+    }
+  ],
+  "publicacoes": [
+    {
+      "id_diario": "309",
+      "ano": "2023",
+      "data_publicacao": "2023-01-12 06:00:00",
+      "titulo": "EXTRATO DE CONTRATO Nº 0034/2023",
+      "codigo_identificador": "MNQADAM186",
+      "endereco_diario": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing",
+      "endereco_publicacao": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
+    }
   ]
 }
