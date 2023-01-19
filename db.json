@@ -393,66 +393,7 @@
           "endereco": "https://drive.google.com/file/d/1lQjY2B7dhKmZfPoQq2qjtA1KbjbMYqmd/view?usp=sharing"
         }
       ]
-    },
-    {
-      "id_diario": "5",
-      "ano": "2021",
-      "data_cadastro": "2021-11-15 21:10:49",
-      "data_publicacao": "2021-11-16 08:30:00",
-      "tipo_diario": "0",
-      "edicao": "1",
-      "situacao_des": "Publicado",
-      "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing",
-      "publicacoes": [
-        {
-          "titulo": "1° TERMO ADITIVO AO CONTRATO N° 20210042",
-          "codigo_identificador": "R4HX3JH097",
-          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
-        },
-        {
-          "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210193",
-          "codigo_identificador": "2JHATLJ089",
-          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
-        },
-        {
-          "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210208",
-          "codigo_identificador": "WB9ZXSJ088",
-          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
-        },
-        {
-          "titulo": "1° TERMO ADITIVO DO CONTRATO N° 20210504",
-          "codigo_identificador": "GH9R9SF091",
-          "endereco": "https://drive.google.com/file/d/1GvhHEQ5Twv6u03LV8nlEkgrOmRnshCxc/view?usp=sharing"
-        }
-      ]
-    },
-    {
-      "id_diario": "18",
-      "ano": "2021",
-      "data_cadastro": "2021-12-02 09:52:08",
-      "data_publicacao": "2021-12-02 10:00:00",
-      "tipo_diario": "0",
-      "edicao": "1",
-      "situacao_des": "Publicado",
-      "endereco": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing",
-      "publicacoes": [
-        {
-          "titulo": "LEI MUNICIPAL N° 2264, DE 25 DE NOVEMBRO DE 2021.",
-          "codigo_identificador": "STA219C225",
-          "endereco": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing"
-        },
-        {
-          "titulo": "Portaria n° 01005/2021 - SEMAT",
-          "codigo_identificador": "U3AUEO8235",
-          "endereco": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing"
-        },
-        {
-          "titulo": "Portaria n° 01006/2021 - SEMAT",
-          "codigo_identificador": "H52KPZY233",
-          "endereco": "https://drive.google.com/file/d/1NKDN9rYzGI0prtSGsGZTyheqksmRxC2K/view?usp=sharing"
-        }
-      ]
-    },
+    },    
     {
       "id_diario": "41",
       "ano": "2022",
@@ -848,16 +789,5 @@
         }
       ]
     }
-  ],
-  "publicacoes": [
-    {
-      "id_diario": "309",
-      "ano": "2023",
-      "data_publicacao": "2023-01-12 06:00:00",
-      "titulo": "EXTRATO DE CONTRATO Nº 0034/2023",
-      "codigo_identificador": "MNQADAM186",
-      "endereco_diario": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing",
-      "endereco_publicacao": "https://drive.google.com/file/d/1ChlH2tE679t7Jhdgtl_JWtVLxEt4D0JX/view?usp=sharing"
-    }
-  ]
+  ],  
 }
