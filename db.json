@@ -1,4 +1,4 @@
-{    
+{
   "stock": [
     {
       "id": 1,
@@ -209,5 +209,55 @@
       "price": 9.9
     }
   ],
-  "orders": [],   
+  "orders": [
+    {
+      "cep": "14409-102",
+      "street": "Rua Doutor Francisco Maníglia",
+      "number": "2265",
+      "complement": "",
+      "district": "Jardim Doutor Antônio Petráglia",
+      "city": "Franca",
+      "state": "SP",
+      "paymentMethod": "debit",
+      "cartItems": [
+        {
+          "id": 7,
+          "image": "https://i.ibb.co/HHcVyMZ/coffee07.png",
+          "tags": [
+            "tradicional",
+            "com leite"
+          ],
+          "title": "Capuccino",
+          "subtitle": "Bebida com canela feita de doses iguais de café, leite e espuma",
+          "price": 5.9,
+          "amount": 7
+        },
+        {
+          "id": 8,
+          "image": "https://i.ibb.co/P5vyLh4/coffee08.png",
+          "tags": [
+            "tradicional",
+            "com leite"
+          ],
+          "title": "Macchiato",
+          "subtitle": "Café expresso misturado com um pouco de leite quente e espuma",
+          "price": 5.9,
+          "amount": 2
+        },
+        {
+          "id": 12,
+          "image": "https://i.ibb.co/WkBgM4t/coffee12.png",
+          "tags": [
+            "especial"
+          ],
+          "title": "Havaiano",
+          "subtitle": "Bebida adocicada preparada com café e leite de coco",
+          "price": 9.9,
+          "amount": 2
+        }
+      ],
+      "createdAt": "2022-09-16T12:48:41.606Z",
+      "id": 1
+    }
+  ]
 }
