@@ -1,263 +1,172 @@
 {
-  "stock": [
+  "pessoasEscolas": [
     {
-      "id": 1,
-      "amount": 25
+      "cpf": "09579794286",
+      "nome": "LARA SOUZA DA TRINDADE",
+      "situacao": "ATIVO",
+      "dataNascimento": "13/1/2021",
+      "avatar": "https://coisadefotografa.com/wp-content/uploads/2021/09/como-ter-fotos-mais-nitidas-scaled.jpg",
+      "idadeMeses": "3 anos",
+      "sexo": "FEMININO",
+      "nomeEscola": "E M E I F NOSSA SENHORA DO PERPETUO SOCORRO",
+      "turma": "MATERNAL III",
+      "bolsaFamilia": "SIM",
+      "pcd": "NAO",
+      "filiacao1": "LILIAM SOUZA DA TRINDADE",
+      "filiacao2": "NÃO DECLARADO",
+      "dataAtt": "12/22/2023",
+      "localizacao": "TURUI",
+      "bairro": "TURUI",
+      "logradouro": "RD PA 151 KM 15 - PROX. ESCOLA",
+      "numero": "S/N"
     },
+
     {
-      "id": 2,
-      "amount": 25
+      "cpf": "90367154234",
+      "nome": "DAVID DO SOCORRO QUEIROZ DE OLIVEIRA",
+      "situacao": "ATIVO",
+      "dataNascimento": "15/12/1998",
+      "avatar": "https://plus.unsplash.com/premium_photo-1682096259050-361e2989706d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG9tZW0lMjBqb3ZlbSUyMCU3Q3xlbnwwfHwwfHx8MA%3D%3D",
+      "idadeMeses": "25",
+      "sexo": "MASCULINO",
+      "nomeEscola": "CENTRO MUL DE ATENDIMENTO EDUCACIONAL ESPECIALIZADO SANTA JOANA",
+      "turma": "2ª ET M A",
+      "bolsaFamilia": "NÃO",
+      "pcd": "SIM",
+      "filiacao1": "GLAUCIA MARIA QUEIROZ DE OLIVEIRA",
+      "filiacao2": "MANOEL NUNES DE OLIVEIRA",
+      "dataAtt": "12/12/2023",
+      "localizacao": "ZONA RURAL",
+      "bairro": "COM STA CECÍLIA",
+      "logradouro": "RAMAL DO CRUZEIRO",
+      "numero": "30"
     },
+
     {
-      "id": 3,
-      "amount": 25
-    },
-    {
-      "id": 4,
-      "amount": 15
-    },
-    {
-      "id": 5,
-      "amount": 30
-    },
-    {
-      "id": 6,
-      "amount": 30
-    },
-    {
-      "id": 7,
-      "amount": 30
-    },
-    {
-      "id": 8,
-      "amount": 10
-    },
-    {
-      "id": 9,
-      "amount": 20
-    },
-    {
-      "id": 10,
-      "amount": 15
-    },
-    {
-      "id": 11,
-      "amount": 4
-    },
-    {
-      "amount": 2,
-      "id": 12
-    },
-    {
-      "id": 13,
-      "amount": 4
-    },
-    {
-      "id": 14,
-      "amount": 5
+      "cpf": "10028205294",
+      "nome": "HENRY GABRIEL DA SILVA FERREIRA",
+      "situacao": "ATIVO",
+      "dataNascimento": "19/11/2021",
+      "avatar": "https://media.istockphoto.com/id/1399611777/pt/foto/portrait-of-a-smiling-little-brown-haired-boy-looking-at-the-camera-happy-kid-with-good.jpg?s=612x612&w=0&k=20&c=7Jcx5NsIbyqPE2xWamyWQtuwECSox0wmoXvat3elBX8=",
+      "idadeMeses": "3",
+      "sexo": "MASCULINO",
+      "nomeEscola": "CRECHE MUNICIPAL HOZANA TRINDADE FURTADO - TIO HOZANA",
+      "turma": "MATERNAL II",
+      "bolsaFamilia": "NÃO",
+      "pcd": "NAO",
+      "filiacao1": "GIANDRA CRISTINA DA SILVA MOREIRA",
+      "filiacao2": "ANDERSON OLIVEIRA FERREIRA",
+      "dataAtt": "2/2/2024",
+      "localizacao": "SÃO FRANCISCO",
+      "bairro": "SÃO FRANCISCO",
+      "logradouro": "16C POXIMO A RUA MANOEL JOAQUIM",
+      "numero": "7"
     }
   ],
-  "products": [
+  "pessoas": [
     {
-      "id": 1,
-      "image": "https://i.ibb.co/tbJj98t/coffee01.png",
-      "tags": [
-        "tradicional"
-      ],
-      "title": "Expresso Tradicional",
-      "subtitle": "O tradicional café feito com água quente e grãos moídos",
-      "price": 4.9
+      "local": "RAMAL DO CRUZEIRO",
+      "rua": "COM STA CECÍLIA",
+      "avatar": "https://plus.unsplash.com/premium_photo-1682096259050-361e2989706d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG9tZW0lMjBqb3ZlbSUyMCU3Q3xlbnwwfHwwfHx8MA%3D%3D",
+      "numeroLogradouro": "30",
+      "mesesDesatualizacaoCadastro": "2",
+      "pessoaNome": "DAVID DO SOCORRO QUEIROZ DE OLIVEIRA",
+      "pessoaCPF": "90367154234",
+      "pessoaNIS": "16152251088",
+      "sexo": "MASCULINO",
+      "dataNascimento": "15/12/1998",
+      "ufNascimento": "PA",
+      "municipioNascimento": "BARCARENA",
+      "tipoDeficiencia": "DEFICIÊNCIA INTELECTUAL",
+      "situacaoRua": "0"
     },
     {
-      "id": 2,
-      "image": "https://i.ibb.co/vVc5tsp/coffee02.png",
-      "tags": [
-        "tradicional"
-      ],
-      "title": "Expresso Americano",
-      "subtitle": "Expresso diluído, menos intenso que o tradicional",
-      "price": 4.9
+      "local": "TURUI",
+      "rua": "RD PA 151 KM 15 - PROX. ESCOLA",
+      "avatar": "https://coisadefotografa.com/wp-content/uploads/2021/09/como-ter-fotos-mais-nitidas-scaled.jpg",
+      "numeroLogradouro": "S/N",
+      "mesesDesatualizacaoCadastro": "0",
+      "pessoaNome": "LARA SOUZA DA TRINDADE",
+      "pessoaCPF": "09579794286",
+      "pessoaNIS": "21317554665",
+      "sexo": "FEMININO",
+      "dataNascimento": "13/1/2021",
+      "ufNascimento": "PA",
+      "municipioNascimento": "BARCARENA",
+      "tipoDeficiencia": "0",
+      "situacaoRua": "0"
     },
     {
-      "id": 3,
-      "image": "https://i.ibb.co/mRNxmJ5/coffee03.png",
-      "tags": [
-        "tradicional"
-      ],
-      "title": "Expresso Cremoso",
-      "subtitle": "Café expresso tradicional com espuma cremosa",
-      "price": 4.9
-    },
-    {
-      "id": 4,
-      "image": "https://i.ibb.co/yhv28L0/coffee04.png",
-      "tags": [
-        "tradicional",
-        "gelado"
-      ],
-      "title": "Expresso Gelado",
-      "subtitle": "Bebida preparada com café expresso e cubos de gelo",
-      "price": 4.9
-    },
-    {
-      "id": 5,
-      "image": "https://i.ibb.co/RHSJqtN/coffee05.png",
-      "tags": [
-        "tradicional",
-        "com leite"
-      ],
-      "title": "Café com Leite",
-      "subtitle": "Meio a meio de expresso tradicional com leite vaporizado",
-      "price": 5.9
-    },
-    {
-      "id": 6,
-      "image": "https://i.ibb.co/KDNWHCv/coffee06.png",
-      "tags": [
-        "tradicional",
-        "com leite"
-      ],
-      "title": "Latte",
-      "subtitle": "Uma dose de café expresso com o dobro de leite e espuma cremosa",
-      "price": 5.9
-    },
-    {
-      "id": 7,
-      "image": "https://i.ibb.co/HHcVyMZ/coffee07.png",
-      "tags": [
-        "tradicional",
-        "com leite"
-      ],
-      "title": "Capuccino",
-      "subtitle": "Bebida com canela feita de doses iguais de café, leite e espuma",
-      "price": 5.9
-    },
-    {
-      "id": 8,
-      "image": "https://i.ibb.co/P5vyLh4/coffee08.png",
-      "tags": [
-        "tradicional",
-        "com leite"
-      ],
-      "title": "Macchiato",
-      "subtitle": "Café expresso misturado com um pouco de leite quente e espuma",
-      "price": 5.9
-    },
-    {
-      "id": 9,
-      "image": "https://i.ibb.co/DG525vJ/coffee09.png",
-      "tags": [
-        "tradicional",
-        "com leite"
-      ],
-      "title": "Mocaccino",
-      "subtitle": "Café expresso com calda de chocolate, pouco leite e espuma",
-      "price": 6.9
-    },
-    {
-      "id": 10,
-      "image": "https://i.ibb.co/B30jg8V/coffee10.png",
-      "tags": [
-        "especial",
-        "com leite"
-      ],
-      "title": "Chocolate Quente",
-      "subtitle": "Bebida feita com chocolate dissolvido no leite quente e café",
-      "price": 7.9
-    },
-    {
-      "id": 11,
-      "image": "https://i.ibb.co/r2x1M71/coffee11.png",
-      "tags": [
-        "especial",
-        "alcoólico",
-        "gelado"
-      ],
-      "title": "Cubano",
-      "subtitle": "Drink gelado de café expresso com rum, creme de leite e hortelã",
-      "price": 9.9
-    },
-    {
-      "id": 12,
-      "image": "https://i.ibb.co/WkBgM4t/coffee12.png",
-      "tags": [
-        "especial"
-      ],
-      "title": "Havaiano",
-      "subtitle": "Bebida adocicada preparada com café e leite de coco",
-      "price": 9.9
-    },
-    {
-      "id": 13,
-      "image": "https://i.ibb.co/n82TMny/coffee13.png",
-      "tags": [
-        "especial"
-      ],
-      "title": "Árabe",
-      "subtitle": "Bebida preparada com grãos de café árabe e especiarias",
-      "price": 9.9
-    },
-    {
-      "id": 14,
-      "image": "https://i.ibb.co/5j2fxDh/coffee14.png",
-      "tags": [
-        "especial",
-        "alcoólico"
-      ],
-      "title": "Irlandês",
-      "subtitle": "Bebida a base de café, uísque irlandês, açúcar e chantilly",
-      "price": 9.9
+      "local": "ILHA SAO MATEUS",
+      "rua": "COMUNIDADE SACAIA",
+      "avatar": "https://cdn.jornaldaparaiba.com.br/wp-content/uploads/2023/01/Samuel-Barreto.jpeg?xid=628858",
+      "numeroLogradouro": "45",
+      "mesesDesatualizacaoCadastro": "0",
+      "pessoaNome": "EMERSON ELVES MATOS ALBUQUERQUE",
+      "pessoaCPF": "3886796205",
+      "pessoaNIS": "20666630075",
+      "sexo": "MASCULINO",
+      "dataNascimento": "15/12/1988",
+      "ufNascimento": "PA",
+      "municipioNascimento": "BARCARENA",
+      "tipoDeficiencia": "0",
+      "situacaoRua": "0"
     }
   ],
-  "orders": [
+  "pessoasSaude": [
     {
-      "cep": "14409-102",
-      "street": "Rua Doutor Francisco Maníglia",
-      "number": "2265",
-      "complement": "",
-      "district": "Jardim Doutor Antônio Petráglia",
-      "city": "Franca",
-      "state": "SP",
-      "paymentMethod": "debit",
-      "cartItems": [
-        {
-          "id": 7,
-          "image": "https://i.ibb.co/HHcVyMZ/coffee07.png",
-          "tags": [
-            "tradicional",
-            "com leite"
-          ],
-          "title": "Capuccino",
-          "subtitle": "Bebida com canela feita de doses iguais de café, leite e espuma",
-          "price": 5.9,
-          "amount": 7
-        },
-        {
-          "id": 8,
-          "image": "https://i.ibb.co/P5vyLh4/coffee08.png",
-          "tags": [
-            "tradicional",
-            "com leite"
-          ],
-          "title": "Macchiato",
-          "subtitle": "Café expresso misturado com um pouco de leite quente e espuma",
-          "price": 5.9,
-          "amount": 2
-        },
-        {
-          "id": 12,
-          "image": "https://i.ibb.co/WkBgM4t/coffee12.png",
-          "tags": [
-            "especial"
-          ],
-          "title": "Havaiano",
-          "subtitle": "Bebida adocicada preparada com café e leite de coco",
-          "price": 9.9,
-          "amount": 2
-        }
-      ],
-      "createdAt": "2022-09-16T12:48:41.606Z",
-      "id": 1
+      "coFatorCidadao": "722161",
+      "nomeCidadao": "HENRY GABRIEL DA SILVA FERREIRA",
+      "ultimaAtualizacao": "26/04/2024",
+      "unidadeSaude": "e S F Sao Francisco",
+      "tipoLogradouro": "",
+      "avatar": "https://media.istockphoto.com/id/1399611777/pt/foto/portrait-of-a-smiling-little-brown-haired-boy-looking-at-the-camera-happy-kid-with-good.jpg?s=612x612&w=0&k=20&c=7Jcx5NsIbyqPE2xWamyWQtuwECSox0wmoXvat3elBX8=",
+      "logradouro": "",
+      "bairroDomicilio": "Centro",
+      "numeroDomicilio": "7",
+      "ultimaConsulta": "01/10/2022",
+      "hipertensaoArterial": "0",
+      "diabetes": "0",
+      "gestante": "0",
+      "deficiencia": "0",
+      "ultimaConsultaFormatada": "01 DE OUTUBRO DE 2023",
+      "ultimaVisitaDomiciliarFormatada": "03 DE OUTUBRO DE 2023"
+    },
+    {
+      "coFatorCidadao": "355789",
+      "nomeCidadao": "Lara Souza da Trindade",
+      "ultimaAtualizacao": "26/04/2024",
+      "unidadeSaude": "U B S Castanhalzinho",
+      "tipoLogradouro": "ROD",
+      "avatar": "https://coisadefotografa.com/wp-content/uploads/2021/09/como-ter-fotos-mais-nitidas-scaled.jpg",
+      "logradouro": "RD PA 151 KM 15 - PROX. ESCOLA",
+      "bairroDomicilio": "TURUI",
+      "numeroDomicilio": "S/N",
+      "ultimaConsulta": "23/10/2024",
+      "hipertensaoArterial": "0",
+      "diabetes": "0",
+      "gestante": "0",
+      "deficiencia": "0",
+      "ultimaConsultaFormatada": "23 DE OUTUBRO DE 2024",
+      "ultimaVisitaDomiciliarFormatada": "31 DE OUTUBRO DE 2024"
+    },
+    {
+      "coFatorCidadao": "56778",
+      "nomeCidadao": "Hyrllen Batista Lisboa Furtado",
+      "ultimaAtualizacao": "26/04/2024",
+      "unidadeSaude": "U B S Bairro Imobiliaria",
+      "tipoLogradouro": "Rua",
+      "avatar": "https://i.pinimg.com/736x/82/de/44/82de44d9892f44349553002f697bd2ff.jpg",
+      "logradouro": "Laurival Cunha",
+      "bairroDomicilio": "Imobiliária",
+      "numeroDomicilio": "6",
+      "ultimaConsulta": "19/10/2023",
+      "hipertensaoArterial": "0",
+      "diabetes": "0",
+      "gestante": "0",
+      "deficiencia": "0",
+      "ultimaConsultaFormatada": "19 DE OUTUBRO DE 2023",
+      "ultimaVisitaDomiciliarFormatada": "29 DE DEZEMBRO DE 2022"
     }
   ]
 }
